@@ -1,0 +1,6 @@
+ques 1 : https://leetcode.com/problems/add-two-numbers/submissions/1386579220/ Add two numbers LL
+ques 2 : rEmove nth node from the back side 
+que3 : https://leetcode.com/problems/merge-two-sorted-lists/
+ques 4: https://leetcode.com/problems/merge-k-sorted-lists/
+ques 5 : swap Node pair 
+ques 6 : https://leetcode.com/problems/reverse-nodes-in-k-group/ reverse k node 
