@@ -1,0 +1,9 @@
+ques 1 : https://leetcode.com/problems/powx-n/description/
+ques 2 : 60 permutation sequence 
+ques 3 : https://leetcode.com/problems/reorder-list/
+ques 4 : https://leetcode.com/problems/remove-linked-list-elements/description/
+ques 5 : basic calculator 
+ques 6 : https://leetcode.com/problems/power-of-two/
+ques 7 : https://leetcode.com/problems/number-of-digit-one/
+ques 8 : pailindrome 
+
