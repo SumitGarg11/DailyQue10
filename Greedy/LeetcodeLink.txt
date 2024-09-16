@@ -1,0 +1,14 @@
+ques 1 : https://leetcode.com/problems/bag-of-tokens/description/
+ques 2   https://leetcode.com/problems/boats-to-save-people/
+ques 3 : https://leetcode.com/problems/break-a-palindrome/description/
+ques 4 : https://leetcode.com/problems/broken-calculator/description/
+ques 5 : https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/
+ques 6 : https://leetcode.com/problems/earliest-possible-day-of-full-bloom/
+ques 7 : https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/
+ques 8 : https://leetcode.com/problems/maximum-69-number/description/
+ques 9 : https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/
+ques 10 :https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/
+
+Daiy problem 
+dobara karna hai
+https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/?envType=daily-question&envId=2024-09-15
