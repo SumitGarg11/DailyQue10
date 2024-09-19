@@ -4,3 +4,5 @@ ques 3 : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/d
 ques 4 : https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 ques 5 : https://leetcode.com/problems/binary-tree-pruning/description/
 ques 6: https://leetcode.com/problems/path-sum-ii/
+ques 7:   https://leetcode.com/problems/path-sum/description/
+ques 8 : https://leetcode.com/problems/add-one-row-to-tree/
